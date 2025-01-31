@@ -9,7 +9,6 @@
 - 🌟 Passionate about coding and solving problems.
 - 🛠️ Skilled in Python, JavaScript, and React.
 - 🎨 Enjoys working with Figma and Photoshop for UI/UX.
-- 🎮 In my free time, I stream on Twitch and create content on YouTube.
 
 ---
 
@@ -30,7 +29,7 @@
 
 ---
 
-### 🌐 Connect With Me
+### 🌐 My Social's
 
 <div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
   <a href="https://www.youtube.com/@zvspany" target="_blank" style="display: inline-block;">
@@ -52,25 +51,25 @@
 
 ---
 
-### 🎨 Stay Connected!
+### 📞 Contact me!
 
 <div align="center">
-  <div style="background: linear-gradient(90deg, #ff7e5f, #feb47b); padding: 15px; border-radius: 10px; color: white; font-size: 20px; font-weight: bold; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);">
-    <a href="https://t.me/your_telegram_link" target="_blank" style="text-decoration: none; margin: 10px;">
-      <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" alt="Telegram" />
-    </a>
-    <a href="https://signal.org/your_signal_link" target="_blank" style="text-decoration: none; margin: 10px;">
-      <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&style=for-the-badge" height="35" alt="Signal" />
-    </a>
-  </div>
+  <a href="https://t.me/zvspany" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&style=for-the-badge" height="35" alt="Telegram" />
+  </a>
+  <a href="https://nopaste.net/zvspany_signal" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Signal&logo=signal&label=&color=039BE5&logoColor=white&style=for-the-badge" height="35" alt="Signal" />
+  </a>
 </div>
 
 ---
 
 ### 🌟 My BIO
 
-<div align="center">
-  <a href="https://github.com/zvspany" target="_blank">
-    <img src="https://raw.githubusercontent.com/zvspany/zvspany/main/ez.png" height="60" alt="My BIO" style="border-radius: 5px; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);" />
+<div align="center" style="display: flex; gap: 10px; justify-content: center; flex-wrap: wrap;">
+    <a href="https://e-z.bio/rr" target="_blank" style="display: inline-block;">
+    <img src="https://img.shields.io/static/v1?message=My BIO&logo=ez&label=&color=144FA8&logoColor=white&style=for-the-badge" height="35" alt="My BIO" />
   </a>
 </div>
+
+
