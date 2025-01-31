@@ -9,7 +9,6 @@
 - 🌟 Passionate about coding and solving problems.
 - 🛠️ Skilled in Python, JavaScript, and React.
 - 🎨 Enjoys working with Figma and Photoshop for UI/UX.
-- 🎮 In my free time, I stream on Twitch and create content on YouTube.
 
 ---
 
