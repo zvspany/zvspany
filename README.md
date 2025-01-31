@@ -2,7 +2,7 @@
 
 ###
 
-<img align="right" height="150" src="https://raw.githubusercontent.com/zvspany/zvspany/main/assets/profile-pic.jpg" alt="zvspany profile" />
+<img align="right" height="150" src="https://avatars.githubusercontent.com/u/175209629?v=4" alt="zvspany profile" />
 
 ### About Me
 
