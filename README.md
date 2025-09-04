@@ -1,16 +1,21 @@
-## Hi there 👋
-
-<!--
-**zvspany/zvspany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```
+             .',;::::;,'.
+         .';:cccccccccccc:;,.            zvspany@world
+      .;cccccccccccccccccccccc;.       ┌───────────────────────────────┐
+    .:cccccccccccccccccccccccccc:.      OS     : Fedora Linux
+  .;ccccccccccccc;.:dddl:.;ccccccc;.     Kernel : VIBE-DEV 2.25
+ .:ccccccccccccc;OWMKOOXMWd;ccccccc:.    WM     : i3-gaps
+.:ccccccccccccc;KMMc;cc;xMMc;ccccccc:.   Shell  : zsh
+,cccccccccccccc;MMM.;cc;;WW:;cccccccc,   Uptime : timeless
+:cccccccccccccc;MMM.;cccccccccccccccc:   CPU    : ZV MAX
+:ccccccc;oxOOOo;MMM000k.;cccccccccccc: └───────────────────────────────┘
+cccccc;0MMKxdd:;MMMkddc.;cccccccccccc;
+ccccc;XMO';cccc;MMM.;cccccccccccccccc'   Z   V   S   P   A   N   Y   ☆彡
+ccccc;MMo;ccccc;MMW.;ccccccccccccccc;
+ccccc;0MNc.ccc.xMMd;ccccccccccccccc;
+cccccc;dNMWXXXWM0:;cccccccccccccc:,     fedora in ~
+cccccccc;.:odl:.;cccccccccccccc:,.       λ echo "Keep it minimal."
+ccccccccccccccccccccccccccccc:'.
+:ccccccccccccccccccccccc:;,,..
+ ':cccccccccccccccc::;,'
+```
