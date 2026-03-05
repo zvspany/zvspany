@@ -1,14 +1,1 @@
-```
-           .             ​ zvspany@world
-          .c.           ┌───────────────────────────────┐
-         .ccc.           ​ OS : Arch Linux
-        .lllll.          ​ Kernel : VIBE-DEV 2.25
-       ..;'olll.         ​ WM : Hyprland
-      .dolllcccl.        ​ Shell : bash 5.3.3
-     .lcc'   'ccc.       ​ CPU : ZV MAX
-    .ccc'     'cc:.     └───────────────────────────────┘
-   .cccc'     'c:;..     Z   V   S   P   A   N   Y   ☆彡
-  ."'             '".
-
-arch in ~
-```
+vibe coder or smth
